@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yr5xlewle-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yr5xlewle-go
